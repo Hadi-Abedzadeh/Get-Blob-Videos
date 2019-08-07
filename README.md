@@ -7,8 +7,9 @@
  ╚═════╝ ╚══════╝   ╚═╝       ╚═════╝ ╚══════╝ ╚═════╝ ╚═════╝ 
 ```
 
-If you haven't been able to download the blob videos yet
-,
+If you haven't been able to download the blob's videos yet,
+
+
 Now
  You able to save all Blob's videos into your device
    * Tutorial in the application
